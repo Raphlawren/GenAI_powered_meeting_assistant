@@ -10,6 +10,7 @@ The application uses **OpenAI Whisper** for automatic speech recognition, **IBM 
 The goal of this project is to demonstrate how speech-to-text systems and large language models can be combined to support business productivity use cases such as meeting documentation, lecture summarization, interview review, and action-item extraction.
 
 ---
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0V2VEN/images/DALL%C2%B7E%202024-02-29%2014.12.41%20-%20In%20a%20minimalist%20meeting%20room%20with%20a%20large%2C%20plain%20round%20table%2C%20a%20small%20and%20simple%20digital%20display%20is%20mounted%20on%20a%20white%20wall.%20The%20display%20shows%20%27Key%20Po.webp" alt="langchain" width="500px" />
 
 ## Problem Statement
 
